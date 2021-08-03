@@ -1,7 +1,5 @@
-# Welcome to MaNGOSWebV4
-This is another continuation of the MaNGOSWebV3 which was abandoned in 2011.  All original credit goes to the previous developers.
-
-You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
+# Welcome to MaNGOSWeb
+This is an another one continuation of the MaNGOSWebV3 (https://code.google.com/archive/p/mangoswebv3/) which was abandoned in 2011. This project based on https://github.com/paintballrefjosh/MaNGOSWebV4. All original credit goes to the previous developers.
 
 ##Features
  - Support for Mangos Based Cores (Trinity, Darkice)
@@ -22,3 +20,4 @@ You can view a live copy of the latest version used for testing by visiting **ww
  - Web point system - Earn points for donating and voting
  - Shop system for users to spend their Web Points
  - Much Much More!
+ 
