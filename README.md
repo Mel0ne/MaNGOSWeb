@@ -1,7 +1,10 @@
-# Welcome to MaNGOSWeb
-This is an another one continuation of the MaNGOSWebV3 (https://code.google.com/archive/p/mangoswebv3/) which was abandoned in 2011. This project based on https://github.com/paintballrefjosh/MaNGOSWebV4. All original credit goes to the previous developers.
+# Welcome to MaNGOSWeb. Again.
+This is an another one continuation of the MangosWeb.
+This project based on paintballrefjosh fork [MaNGOSWebV4](https://github.com/paintballrefjosh/MaNGOSWebV4).
 
-##Features
+All original credit goes to the previous developers (Sasha, TGM, Peec, Nafe, Wilson212, Wortexqq, paintballrefjosh, and etc.). 
+
+## Original features list
  - Support for Mangos Based Cores (Trinity, Darkice)
  - Full template system allowing any layout, including non-blizzlike templates
  - New SDL idea makes any emulator / patch combo possible with even the newest updates of v3
